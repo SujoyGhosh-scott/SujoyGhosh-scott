@@ -26,11 +26,6 @@ click on react to see some of my react projects
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SujoyGhosh-scott.SujoyGhosh-scott)
 
-<!--
-![](https://komarev.com/ghpvc/?username=SujoyGhosh-scott)
-
-![Visitor Count](https://profile-counter.glitch.me/SujoyGhosh-scott/count.svg)-->
-
 ### Github Stats
 
-[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
