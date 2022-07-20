@@ -8,7 +8,7 @@ Hello I'm Sujoy, I'm a full-stack web developer from Kolkata, India. I'm current
 
 ### :mailbox: Reach me out!
 
-[![LinkedIn](https://img.shields.io/badge/sujoy-ghosh2000-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujoy-ghosh2000/)
+[![LinkedIn](https://img.shields.io/badge/sujoyghosh2000-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujoy-ghosh2000/)
 [![Portfolio](https://img.shields.io/badge/Sujoy-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sujoy-ghosh-portfolio.netlify.app/)
 [![Instagram](https://img.shields.io/badge/sujoy__ghosh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sujoy__ghosh/)
 [![HackerRank](https://img.shields.io/badge/-Sujoy_Ghosh-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sujoy_Ghosh)
@@ -16,7 +16,7 @@ Hello I'm Sujoy, I'm a full-stack web developer from Kolkata, India. I'm current
 
 ### Technologies I mostly use in my projects
 
-click on react to see some of my react projects
+click on React to see some of my react projects
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/SujoyGhosh-scott?tab=repositories&q=react)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
@@ -28,4 +28,4 @@ click on react to see some of my react projects
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=dark)](https://github.com/SujoyGhosh-scott)&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
