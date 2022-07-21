@@ -6,6 +6,10 @@ Hello I'm Sujoy, I'm a full-stack web developer from Kolkata, India. I'm current
 - Learning something everyday
 - Always ready to discuss project ideas
 
+### :paperclip: My resume
+
+[click here](#)
+
 ### :mailbox: Reach me out!
 
 [![LinkedIn](https://img.shields.io/badge/sujoyghosh2000-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujoy-ghosh2000/)
@@ -22,10 +26,10 @@ click on React to see some of my react projects
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/SujoyGhosh-scott?tab=repositories&q=flutter) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](#)
 
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SujoyGhosh-scott.SujoyGhosh-scott)
-
 ### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=dark)](https://github.com/SujoyGhosh-scott)&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
+
+### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SujoyGhosh-scott.SujoyGhosh-scott)
