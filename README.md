@@ -8,7 +8,7 @@ Hello I'm Sujoy, I'm a full-stack web developer from Kolkata, India. I'm current
 
 ### :paperclip: My resume
 
-[click here](#)
+[click here](https://github.com/SujoyGhosh-scott/SujoyGhosh-scott/blob/main/Sujoy_Ghosh_Resume.pdf)
 
 ### :mailbox: Reach me out!
 
