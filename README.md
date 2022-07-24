@@ -30,6 +30,8 @@ click on React to see some of my react projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=dark)](https://github.com/SujoyGhosh-scott)&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
 
+<img src="https://github.com/SujoyGhosh-scott/SujoyGhosh-scott/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="Sujoy Ghosh github contributions">
+
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SujoyGhosh-scott.SujoyGhosh-scott)
