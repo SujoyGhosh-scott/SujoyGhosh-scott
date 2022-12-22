@@ -28,9 +28,7 @@ click on React to see some of my react projects
 
 ### Github Stats
 
-<img src="https://github.com/SujoyGhosh-scott/SujoyGhosh-scott/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Sujoy Ghosh github contributions">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=github_dark)](https://github.com/SujoyGhosh-scott)&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=dark)](https://github.com/SujoyGhosh-scott)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujoyGhosh-scott&layout=compact&theme=github_dark)](https://github.com/SujoyGhosh-scott)&nbsp;&nbsp;[![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujoyGhosh-scott&hide=issues,contribs&theme=github_dark)](https://github.com/SujoyGhosh-scott)
 
 ### Profile Visits
 
