@@ -13,7 +13,7 @@ Hello I'm Sujoy, I'm a full-stack web developer from Kolkata, India. I'm current
 ### :mailbox: Reach me out!
 
 [![LinkedIn](https://img.shields.io/badge/sujoyghosh2000-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujoy-ghosh2000/)
-[![Portfolio](https://img.shields.io/badge/Sujoy-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sujoy-ghosh-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Sujoy-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sujoyghosh.netlify.app)
 [![Instagram](https://img.shields.io/badge/sujoy__ghosh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sujoy__ghosh/)
 [![HackerRank](https://img.shields.io/badge/-Sujoy_Ghosh-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sujoy_Ghosh)
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoshsujoy336@gmail.com)
